@@ -1,6 +1,8 @@
 {
-  "name": "tienda-front",
-  "version": "0.0.0",
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
